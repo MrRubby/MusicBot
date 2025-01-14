@@ -1,6 +1,6 @@
 # IncCheat - Minecraft Anti-Hile Sistemi
 
-IncCheat, Minecraft sunucuları için geliştirilmiş kapsamlı bir anti-hile sistemidir. Modern hile türlerini tespit etmek ve engellemek için gelişmiş algoritmalar kullanır.
+IncCheat, Minecraft sunucuları için geliştirilmiş kapsamlı ve profesyonel bir anti-hile sistemidir. Modern hile türlerini tespit etmek ve engellemek için gelişmiş algoritmalar kullanır.
 
 ## Özellikler
 
@@ -60,9 +60,10 @@ Her kontrol için özelleştirilebilir ayarlar:
 ## Kurulum
 
 1. Plugin dosyasını `plugins` klasörüne atın
-2. Sunucuyu yeniden başlatın
-3. `plugins/IncCheat` klasöründeki konfigürasyon dosyalarını düzenleyin
-4. `/ic reload` komutu ile değişiklikleri uygulayın
+2. Lisans anahtarınızı `config.yml` dosyasına girin
+3. Sunucuyu yeniden başlatın
+4. `plugins/IncCheat` klasöründeki konfigürasyon dosyalarını düzenleyin
+5. `/ic reload` komutu ile değişiklikleri uygulayın
 
 ## Gereksinimler
 
@@ -70,10 +71,17 @@ Her kontrol için özelleştirilebilir ayarlar:
 - Spigot/Paper sunucu
 - Java 8 veya üzeri
 
+## Satın Alma
+
+Eklentiyi satın almak için:
+- Discord: [Link]
+- MC-Market: [Link]
+- SpigotMC: [Link]
+
 ## Destek
 
-Hata bildirimleri ve öneriler için GitHub Issues kullanabilirsiniz.
+Premium destek için Discord sunucumuza katılın: [Link]
 
 ## Lisans
 
-Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakın. 
+Tüm hakları saklıdır. Bu yazılım lisanslı bir üründür ve kaynak kodu paylaşılmamaktadır. 
